@@ -24,7 +24,7 @@ This is an AI-driven Resume Screening and Ranking System based on Streamlit. It 
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ai-resume-ranking.git
+   git clone https://github.com/yourusername/ai-resume-ranking.git](https://github.com/BabariyaTirth/-AI-powered-Resume-Screening-and-Ranking-System-
    cd ai-resume-ranking
    ```
 2. Create and activate a virtual environment:
