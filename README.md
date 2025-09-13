@@ -39,7 +39,7 @@ This is an AI-driven Resume Screening and Ranking System based on Streamlit. It 
 4. Run the Streamlit application:
    ```sh
    streamlit run app.py
-   ```
+   ```.
 
 ## Usage
 1. Enter the job description in the provided text area.
