@@ -45,6 +45,6 @@ This is an AI-driven Resume Screening and Ranking System based on Streamlit. It 
 1. Enter the job description in the provided text area.
 2. Upload one or multiple resumes in PDF format.
 3. Click the **Submit** button to rank resumes based on relevance.
-4. View the ranked list of candidates with similarity scores.
+4. View the ranked list of candidates with similarity scores .
 
 
