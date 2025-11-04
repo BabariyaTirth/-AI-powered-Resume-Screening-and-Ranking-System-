@@ -9,7 +9,7 @@ This is an AI-driven Resume Screening and Ranking System based on Streamlit. It 
 - **Automated Candidate Ranking**: Ranks resumes using TF-IDF and cosine similarity.
 - **Streamlit Web Interface**: Interactive UI for resume upload and result viewing.
 
-## Technologies Used
+## Technologies Used.
 - **Python**: Underlying programming language.
 - **Streamlit**: Web framework used for UI.
 - **PyPDF2**: Text extraction from PDF resumes.
