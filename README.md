@@ -5,7 +5,7 @@ This is an AI-driven Resume Screening and Ranking System based on Streamlit. It 
 
 ## Features
 - **PDF Resume Parsing**: Text extraction from PDF resumes uploaded.
-- **Job Description Matching**: Matches resumes to a given job description.
+- **Job Description Matching**: Matches resumes to a given job description
 - **Automated Candidate Ranking**: Ranks resumes using TF-IDF and cosine similarity.
 - **Streamlit Web Interface**: Interactive UI for resume upload and result viewing.
 
